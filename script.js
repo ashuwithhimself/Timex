@@ -12,7 +12,7 @@ window.addEventListener("scroll", ()=>{
     }
     scrollOff = window.scrollY;
 })
-let days = ["Monday", "Tuesday","Wednusday", "Thusrsday", "Friday", "Saturday"];
+let days = ["Monday", "Tuesday","Wednesday", "Thursday", "Friday", "Saturday"];
 let bool_delete_mode = false;
 let bool_edit_mode = false;
 const d = new Date();
